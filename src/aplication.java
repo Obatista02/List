@@ -9,11 +9,11 @@ public class aplication {
 
 		List<String> list = new ArrayList<>();
 
-		list.add("Guilherme");
-		list.add("Monique");
-		list.add("Angela");
-		list.add("Claudio");
-		list.add("Fernanda");
+		list.add("Joao");
+		list.add("Marisa");
+		list.add("Angelica");
+		list.add("Cassio");
+		list.add("Francisco");
 		// Tamanho da lista
 		System.out.println(list.size());
 
