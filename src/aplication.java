@@ -29,8 +29,8 @@ public class aplication {
 			System.out.println(x);
 		}
 		System.out.println("--------------------");
-		System.out.println("Posiçao da Fernanda: " + list.indexOf("Fernanda"));
-		System.out.println("Posiçao do Claudio: " + list.indexOf("Claudio"));
+		System.out.println("Posiçao da Francisco: " + list.indexOf("Francisco"));
+		System.out.println("Posiçao do Cassio: " + list.indexOf("Cassio"));
 		System.out.println("--------------------");
 		// filtar para aparecer com as ordens do filtro
 		List<String> filtro = list.stream().filter(x -> x.charAt(0) == 'G').collect(Collectors.toList());
